@@ -1,0 +1,41 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WordPressViewer.WP8.Dictionaries"
+    xmlns:control="using:WordPressViewer.WP8.Controls.HelperControl">
+    <DataTemplate x:Key="BasicPostItem">
+        <StackPanel Margin="0,0,0,19">
+            <TextBlock Text="{Binding title}" Style="{ThemeResource ListViewItemTextBlockStyle}" TextWrapping="WrapWholeWords" MaxLines="2"/>
+            <TextBlock Text="{Binding author}" Style="{ThemeResource ListViewItemSubheaderTextBlockStyle}"/>
+        </StackPanel>
+    </DataTemplate>
+    <DataTemplate x:Key="BasicCategoryItem">
+        <StackPanel Margin="0,0,0,19">
+            <TextBlock Text="{Binding name}" Style="{ThemeResource ListViewItemTextBlockStyle}" TextWrapping="WrapWholeWords" MaxLines="2"/>
+            <TextBlock  Style="{ThemeResource ListViewItemSubheaderTextBlockStyle}">
+                <Run Text="{Binding count}"/>
+                <Run Text="篇文章"/>
+            </TextBlock>
+        </StackPanel>
+    </DataTemplate>
+    <DataTemplate x:Key="BasicTagItem">
+        <StackPanel Margin="0,0,0,19">
+            <TextBlock Text="{Binding name}" Style="{ThemeResource ListViewItemTextBlockStyle}" TextWrapping="WrapWholeWords" MaxLines="2"/>
+            <TextBlock  Style="{ThemeResource ListViewItemSubheaderTextBlockStyle}">
+                <Run Text="{Binding count}"/>
+                <Run Text="篇文章"/>
+            </TextBlock>
+        </StackPanel>
+    </DataTemplate>
+    <DataTemplate x:Key="BasicUserItem">
+        <StackPanel Margin="0,0,0,19">
+            <TextBlock Text="{Binding name}" Style="{ThemeResource ListViewItemTextBlockStyle}"/>
+        </StackPanel>
+    </DataTemplate>
+    <DataTemplate x:Key="BasicCommentItem">
+        <StackPanel Margin="0,0,0,0">
+            <TextBlock Text="{Binding authorName}" Style="{ThemeResource TitleTextBlockStyle}" Foreground="{ThemeResource PhoneHighContrastSelectedForegroundThemeBrush}"/>
+            <TextBlock Text="{Binding content}" Style="{ThemeResource TitleTextBlockStyle}" FontWeight="Normal" Foreground="{StaticResource AppBarItemForegroundThemeBrush}" TextWrapping="WrapWholeWords"/>
+        </StackPanel>
+    </DataTemplate>
+</ResourceDictionary>

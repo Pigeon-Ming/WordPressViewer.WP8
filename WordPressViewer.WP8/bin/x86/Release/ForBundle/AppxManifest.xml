@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest" xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:build="http://schemas.microsoft.com/developer/appx/2012/build" IgnorableNamespaces="build">
+  <!--
+  此包清单文件由生成过程生成。
+
+  如果重新生成此文件，将丢失对其所做的更改。若要更正此文件中的错误，请编辑源 .appxmanifest 文件。
+
+  有关程序包清单文件的详细信息，请参阅 http://go.microsoft.com/fwlink/?LinkID=241727
+ -->
+  <Identity Name="a58fd533-e455-4679-81a9-e5069b91ae0f" Publisher="CN=zouqi" Version="1.0.0.0" ProcessorArchitecture="x86" />
+  <mp:PhoneIdentity PhoneProductId="a58fd533-e455-4679-81a9-e5069b91ae0f" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Properties>
+    <DisplayName>WordPressViewer.WP8</DisplayName>
+    <PublisherDisplayName>Pigeon_Ming</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.3.1</OSMinVersion>
+    <OSMaxVersionTested>6.3.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="ZH-CN" />
+    <Resource m2:Scale="100" />
+    <Resource m2:Scale="120" />
+    <Resource m2:Scale="140" />
+    <Resource m2:Scale="160" />
+    <Resource m2:Scale="180" />
+    <Resource m2:DXFeatureLevel="dx9" />
+    <Resource m2:DXFeatureLevel="dx10" />
+    <Resource m2:DXFeatureLevel="dx11" />
+    <Resource m3:Scale="200" />
+    <Resource m3:Scale="220" />
+    <Resource m3:Scale="240" />
+    <Resource m3:Scale="300" />
+    <Resource m3:Scale="400" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="WordPressViewer.WP8.1.exe" EntryPoint="WordPressViewer.WP8.App">
+      <m3:VisualElements DisplayName="WordPressViewer" Square150x150Logo="Assets\Logo.png" Square44x44Logo="Assets\SmallLogo.png" Description="WordPressViewer是一款基于WordPress REST API开发的WordPress客户端。" ForegroundText="light" BackgroundColor="transparent">
+        <m3:DefaultTile Wide310x150Logo="Assets\WideLogo.png" Square71x71Logo="Assets\Square71x71Logo.png">
+          <m3:ShowNameOnTiles>
+            <m3:ShowOn Tile="square150x150Logo" />
+            <m3:ShowOn Tile="wide310x150Logo" />
+          </m3:ShowNameOnTiles>
+        </m3:DefaultTile>
+        <m3:SplashScreen Image="Assets\SplashScreen.png" />
+        <m3:InitialRotationPreference>
+          <m3:Rotation Preference="portrait" />
+          <m3:Rotation Preference="landscape" />
+          <m3:Rotation Preference="landscapeFlipped" />
+        </m3:InitialRotationPreference>
+      </m3:VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClientServer" />
+  </Capabilities>
+  <build:Metadata>
+    <build:Item Name="TargetFrameworkMoniker" Value="WindowsPhoneApp,Version=v8.1" />
+    <build:Item Name="VisualStudio" Version="14.0" />
+    <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Community 2015" />
+    <build:Item Name="OperatingSystem" Version="10.0.19041.4406 (WinBuild.160101.0800)" />
+    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="14.0.23107.0" />
+    <build:Item Name="ProjectGUID" Value="{7AF5D538-7777-49BD-B8BB-869B4E1FF574}" />
+    <build:Item Name="Microsoft.Windows.UI.Xaml.81.Build.Tasks.dll" Version="14.0.22705.1" />
+    <build:Item Name="MakePri.exe" Version="6.3.9600.17336 (winblue.150226-1500)" />
+  </build:Metadata>
+</Package>

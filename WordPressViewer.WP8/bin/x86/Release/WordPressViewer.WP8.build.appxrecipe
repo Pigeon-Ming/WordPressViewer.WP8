@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-KB81R7G</Machine>
+    <WindowsUser>zouqi</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>a58fd533-e455-4679-81a9-e5069b91ae0f</PackageIdentityName>
+    <IntermediateOutputPath>D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\obj\x86\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\bin\x86\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\bin\x86\Release\WordPressViewer.WP8.1.exe">
+      <PackagePath>WordPressViewer.WP8.1.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.Model\bin\x86\Release\WordPressViewer.Model.dll">
+      <PackagePath>WordPressViewer.Model.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\Assets\HubBackground.theme-dark.png">
+      <PackagePath>Assets\HubBackground.theme-dark.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\Assets\HubBackground.theme-light.png">
+      <PackagePath>Assets\HubBackground.theme-light.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\bin\x86\Release\WordPressViewer.WP8.1.xr.xml">
+      <PackagePath>WordPressViewer.WP8.1.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\bin\x86\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\bin\x86\Release\Controls\HelperControl\ListItemPostTitleControl.xbf">
+      <PackagePath>Controls\HelperControl\ListItemPostTitleControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\bin\x86\Release\Controls\LazyLoadListControl.xbf">
+      <PackagePath>Controls\LazyLoadListControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\bin\x86\Release\Controls\LoadingControl.xbf">
+      <PackagePath>Controls\LoadingControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\bin\x86\Release\Dictionaries\ListItemsDictionary.xbf">
+      <PackagePath>Dictionaries\ListItemsDictionary.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\bin\x86\Release\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\bin\x86\Release\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\bin\x86\Release\SectionPage.xbf">
+      <PackagePath>SectionPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\bin\x86\Release\Views\AboutPage.xbf">
+      <PackagePath>Views\AboutPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\bin\x86\Release\Views\AddWebsitePage.xbf">
+      <PackagePath>Views\AddWebsitePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\bin\x86\Release\Views\ContentPage\CategoryPage.xbf">
+      <PackagePath>Views\ContentPage\CategoryPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\bin\x86\Release\Views\ContentPage\CommentPage.xbf">
+      <PackagePath>Views\ContentPage\CommentPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\bin\x86\Release\Views\ContentPage\PostPage.xbf">
+      <PackagePath>Views\ContentPage\PostPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\bin\x86\Release\Views\ContentPage\TagPage.xbf">
+      <PackagePath>Views\ContentPage\TagPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\bin\x86\Release\Views\ContentPage\UserPage.xbf">
+      <PackagePath>Views\ContentPage\UserPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\bin\x86\Release\Views\EditWebsitePage.xbf">
+      <PackagePath>Views\EditWebsitePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\bin\x86\Release\Views\WebsitePage.xbf">
+      <PackagePath>Views\WebsitePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\bin\x86\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

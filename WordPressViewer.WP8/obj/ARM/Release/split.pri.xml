@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="a58fd533-e455-4679-81a9-e5069b91ae0f" version="1.0" primary="true">
+		<Qualifiers>
+			<Language>ZH-CN</Language>
+			<Scale>240</Scale>
+			<Theme>LIGHT, DARK</Theme>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="HubPage.xbf" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Files/HubPage.xbf">
+				<Candidate type="Path">
+					<Value>HubPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ItemPage.xbf" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Files/ItemPage.xbf">
+				<Candidate type="Path">
+					<Value>ItemPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SectionPage.xbf" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Files/SectionPage.xbf">
+				<Candidate type="Path">
+					<Value>SectionPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="WordPressViewer.WP8.1.xr.xml" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Files/WordPressViewer.WP8.1.xr.xml">
+				<Candidate type="Path">
+					<Value>WordPressViewer.WP8.1.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="BadgeLogo.png" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Files/Assets/BadgeLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\BadgeLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DarkGray.png" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Files/Assets/DarkGray.png">
+					<Candidate type="Path">
+						<Value>Assets\DarkGray.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="HubBackground.png" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Files/Assets/HubBackground.png">
+					<Candidate qualifiers="Theme-LIGHT" isDefault="true" type="Path">
+						<Value>Assets\HubBackground.theme-light.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Theme-DARK" isDefault="true" type="Path">
+						<Value>Assets\HubBackground.theme-dark.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LightGray.png" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Files/Assets/LightGray.png">
+					<Candidate type="Path">
+						<Value>Assets\LightGray.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo.png" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MediumGray.png" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Files/Assets/MediumGray.png">
+					<Candidate type="Path">
+						<Value>Assets\MediumGray.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Files/Assets/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WideLogo.png" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Files/Assets/WideLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\WideLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Common">
+				<NamedResource name="ReadMe.txt" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Files/Common/ReadMe.txt">
+					<Candidate type="Path">
+						<Value>Common\ReadMe.txt</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Controls">
+				<NamedResource name="LazyLoadListControl.xbf" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Files/Controls/LazyLoadListControl.xbf">
+					<Candidate type="Path">
+						<Value>Controls\LazyLoadListControl.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LoadingControl.xbf" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Files/Controls/LoadingControl.xbf">
+					<Candidate type="Path">
+						<Value>Controls\LoadingControl.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="HelperControl">
+					<NamedResource name="ListItemPostTitleControl.xbf" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Files/Controls/HelperControl/ListItemPostTitleControl.xbf">
+						<Candidate type="Path">
+							<Value>Controls\HelperControl\ListItemPostTitleControl.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="DataModel">
+				<NamedResource name="SampleData.json" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Files/DataModel/SampleData.json">
+					<Candidate type="Path">
+						<Value>DataModel\SampleData.json</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Dictionaries">
+				<NamedResource name="ListItemsDictionary.xbf" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Files/Dictionaries/ListItemsDictionary.xbf">
+					<Candidate type="Path">
+						<Value>Dictionaries\ListItemsDictionary.xbf</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Views">
+				<NamedResource name="AboutPage.xbf" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Files/Views/AboutPage.xbf">
+					<Candidate type="Path">
+						<Value>Views\AboutPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AddWebsitePage.xbf" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Files/Views/AddWebsitePage.xbf">
+					<Candidate type="Path">
+						<Value>Views\AddWebsitePage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="EditWebsitePage.xbf" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Files/Views/EditWebsitePage.xbf">
+					<Candidate type="Path">
+						<Value>Views\EditWebsitePage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WebsitePage.xbf" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Files/Views/WebsitePage.xbf">
+					<Candidate type="Path">
+						<Value>Views\WebsitePage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="ContentPage">
+					<NamedResource name="CategoryPage.xbf" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Files/Views/ContentPage/CategoryPage.xbf">
+						<Candidate type="Path">
+							<Value>Views\ContentPage\CategoryPage.xbf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="CommentPage.xbf" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Files/Views/ContentPage/CommentPage.xbf">
+						<Candidate type="Path">
+							<Value>Views\ContentPage\CommentPage.xbf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="PostPage.xbf" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Files/Views/ContentPage/PostPage.xbf">
+						<Candidate type="Path">
+							<Value>Views\ContentPage\PostPage.xbf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TagPage.xbf" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Files/Views/ContentPage/TagPage.xbf">
+						<Candidate type="Path">
+							<Value>Views\ContentPage\TagPage.xbf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="UserPage.xbf" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Files/Views/ContentPage/UserPage.xbf">
+						<Candidate type="Path">
+							<Value>Views\ContentPage\UserPage.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Resources">
+			<NamedResource name="HubSection1" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Resources/HubSection1">
+				<Candidate qualifiers="Language-ZH-CN" isDefault="true" type="String">
+					<Value>第 1 部分</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="HubSection2" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Resources/HubSection2">
+				<Candidate qualifiers="Language-ZH-CN" isDefault="true" type="String">
+					<Value>第 2 部分</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="HubSection3" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Resources/HubSection3">
+				<Candidate qualifiers="Language-ZH-CN" isDefault="true" type="String">
+					<Value>第 3 部分</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="HubSection4" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Resources/HubSection4">
+				<Candidate qualifiers="Language-ZH-CN" isDefault="true" type="String">
+					<Value>第 4 部分</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="HubSection5" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Resources/HubSection5">
+				<Candidate qualifiers="Language-ZH-CN" isDefault="true" type="String">
+					<Value>第 5 部分</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NavigationFailedExceptionMessage" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Resources/NavigationFailedExceptionMessage">
+				<Candidate qualifiers="Language-ZH-CN" isDefault="true" type="String">
+					<Value>导航失败。</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Header">
+				<NamedResource name="Text" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Resources/Header/Text">
+					<Candidate qualifiers="Language-ZH-CN" isDefault="true" type="String">
+						<Value>应用程序名称</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Hub">
+				<NamedResource name="Header" uri="ms-resource://a58fd533-e455-4679-81a9-e5069b91ae0f/Resources/Hub/Header">
+					<Candidate qualifiers="Language-ZH-CN" isDefault="true" type="String">
+						<Value>应用程序名称</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

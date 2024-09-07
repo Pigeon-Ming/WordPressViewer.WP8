@@ -1,0 +1,1 @@
+MainPackage=D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\bin\ARM\Release\WordPressViewer.WP8_1.0.0.2_ARM.appx

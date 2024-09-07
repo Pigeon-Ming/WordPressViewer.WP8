@@ -1,0 +1,16 @@
+D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.Model\bin\x86\Debug\WordPressViewer.Model.dll
+D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.Model\bin\x86\Debug\WordPressViewer.Model.pdb
+D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.Model\bin\x86\Debug\WordPressViewer.Model.pri
+D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.Model\obj\x86\Debug\WordPressViewer.Model.dll
+D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.Model\obj\x86\Debug\WordPressViewer.Model.pdb
+D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.Model\obj\x86\Debug\priconfig.xml
+D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.Model\obj\x86\Debug\priconfig.xml.intermediate
+D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.Model\obj\x86\Debug\layout.resfiles
+D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.Model\obj\x86\Debug\layout.resfiles.intermediate
+D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.Model\obj\x86\Debug\resources.resfiles
+D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.Model\obj\x86\Debug\resources.resfiles.intermediate
+D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.Model\obj\x86\Debug\pri.resfiles
+D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.Model\obj\x86\Debug\pri.resfiles.intermediate
+D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.Model\obj\x86\Debug\qualifiers.txt
+D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.Model\obj\x86\Debug\qualifiers.txt.intermediate
+D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.Model\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt

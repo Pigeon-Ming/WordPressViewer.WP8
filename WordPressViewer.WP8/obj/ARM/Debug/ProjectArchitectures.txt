@@ -1,0 +1,2 @@
+D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.Model\WordPressViewer.Model.csproj;arm
+D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8.csproj;arm

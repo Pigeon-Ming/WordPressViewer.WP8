@@ -1,0 +1,2 @@
+MainPackage=D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\bin\x86\Release\WordPressViewer.WP8_1.0.0.0_x86.appx
+SymbolPackage=D:\WPAPPS\WordPressViewer.WP8\WordPressViewer.WP8\WordPressViewer.WP8\AppPackages\WordPressViewer.WP8_1.0.0.0_Test\WordPressViewer.WP8_1.0.0.0_x86.appxsym
